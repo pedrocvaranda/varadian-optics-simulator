@@ -9,6 +9,7 @@ Implementation of the theoretical framework from:
 > *Zenodo*, 2026
 
 [Read the paper](https://doi.org/10.5281/zenodo.18529071)
+[Read the explanation] (https://pedrocvaranda.github.io/varandian-optics-simulator/)
 
 ---
 
