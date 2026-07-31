@@ -105,8 +105,9 @@ varandian-optics-simulator/
 ├── README.md
 ├── requirements.txt
 ├── INSTALL.md
-├── paper/
+├── docs/
 │   ├── README.md
+│   ├── index.html
 │   └── Varandian_Optics.pdf    # Original research paper
 ├── core/
 │   ├── __init__.py
